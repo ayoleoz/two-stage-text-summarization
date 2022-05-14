@@ -1,0 +1,5 @@
+transformers==4.13.0
+datasets==1.16.1
+tqdm==4.62.3
+nltk==3.6.5
+rouge-score==0.0.4
